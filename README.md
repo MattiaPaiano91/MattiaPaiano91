@@ -10,6 +10,6 @@ Here are some ideas to get you started:
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
-- 📫 How to reach me: (https://www.linkedin.com/in/mattia-paiano-6564611ba/)
+<!-- - 📫 How to reach me: (https://www.linkedin.com/in/mattia-paiano-6564611ba/) -->
 <!-- - ⚡ Fun fact: ... -->
 
