@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mattiapaiano91&label=Profile%20views&color=0e75b6&style=flat" alt="mattiapaiano91" /> </p>
 
-- 🌱 I’m currently learning **JS, Gsap, Vue, Laravel, ionic**
+- 🌱 I’m currently learning **JS, Gsap, Vue, react, php, Laravel, ionic, graphQL**
 
 - 📫 How to reach me **paianomattia1@gmail.com**
 
