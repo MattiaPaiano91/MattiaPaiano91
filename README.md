@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hey, I'm Mattia! &nbsp;🇮🇹
+# Hi, I'm Mattia
 
-**Full-Stack Developer** · Building for the web, one commit at a time.
+**Software Engineer** · Backend-focused · Building scalable multi-tenant systems
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mattia-paiano)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paianomattia1@gmail.com)
@@ -12,47 +12,78 @@
 
 ---
 
-### 🧑‍💻 &nbsp;About Me
+## About Me
 
-- 🔭 &nbsp;Full-stack developer based in **Italy**
-- 🌱 &nbsp;Currently leveling up in **JavaScript, React & Java**
-- 💬 &nbsp;Ask me about **PHP, Laravel, Vue.js, or anything web-related**
-- ⚡ &nbsp;Fun fact: I love turning caffeine into code
+- Software Engineer based in Italy  
+- Strong focus on backend architecture, multi-tenant systems, and API design  
+- Building production systems with authentication, role management, GIS integration, and cloud deployments  
+- Experience integrating external services (Keycloak, PDND, SMTP, cloud DBs)  
+- Clean architecture mindset: business logic first, framework second  
 
 ---
 
-### 🛠️ &nbsp;Tech Stack
+## Tech Stack
 
-**Frontend**
+### Backend
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-
-**Styling**
-
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
-
-**Backend & Database**
-
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-**Tools**
-
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+- REST & GraphQL APIs  
+- Multi-tenant architecture  
+- Role & permission management (Keycloak)  
+- JWT, OAuth2  
+- PostgreSQL (PostGIS), MySQL  
+- Background jobs, triggers, DB-level logic  
 
 ---
 
-### 📊 &nbsp;GitHub Stats
+### Frontend
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![OpenLayers](https://img.shields.io/badge/OpenLayers-1F6B75?style=flat-square)
+
+- App Router (Next.js)  
+- Client-side state management  
+- Interactive GIS maps with OpenLayers  
+- Canvas-based PDF editing tools  
+- Persistent UI state across tabs  
+
+---
+
+### DevOps & Tools
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+- CI/CD pipelines  
+- AWS (RDS, ECR, containerized deployments)  
+- Kubernetes basics  
+- Structured logging & production debugging  
+
+---
+
+## What I Build
+
+- Multi-tenant SaaS platforms  
+- Role-based access control systems  
+- GIS-enabled management systems  
+- Public administration integrations  
+- Inventory & POS systems  
+- Backend-first architectures designed to scale  
+
+---
+
+## GitHub Stats
 
 <div align="center">
 
@@ -68,8 +99,4 @@
 
 ---
 
-<div align="center">
-
-*"First, solve the problem. Then, write the code."* — John Johnson
-
-</div>
+> Build systems that work in production, not just in demos.
